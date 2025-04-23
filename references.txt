@@ -1,0 +1,51 @@
+[1]Abebe, Raji (2019) “Fairness and Abstraction in Sociotechnical Systems,” Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems. 
+[2]Binns, R. (2018) “Fairness in Machine Learning: Lessons from Political Philosophy,” Proceedings of Machine Learning Research. United Kingdom: ML Research Press. 
+[3]Brundage, M. et al. (2020) “Toward trustworthy AI development: Mechanisms for supporting verifiable claims,” arXiv. France: arXiv. doi: 10.48550/arxiv.2004.07213. 
+[4]Bruno and et al. (2020) Nanomaterials, pp. 1–12. 
+[5]Caliskan et al. (2017) “Semantics and Ethics in AI,” Proceedings of the 2017 Conference on Fairness, Accountability, and Transparency. 
+[6] Aleksandra and Roth, Aaron (2020) “A Snapshot of Current Research on Fairness and Machine Learning,” Communications of the ACM, 63, pp. 62–71. 
+[7]Cihangir, S. and K, T. B. S. (2021) “Sustainable AI: A Framework for Responsible AI Practices,” Journal of Sustainable Computing: Informatics and Systems, 28, pp. 100–112. 
+[8]Dastin, Joshua (2018) “Amazon Scraps Secret AI Recruiting Tool That Showed Bias Against Women,” Reuters.
+[9]Diakopoulos, Nicholas (2016) “Accountability in algorithmic decision making,” Communications of the ACM. Association for Computing Machinery (ACM), 59(2), pp. 56–62. doi: 10.1145/2844110. 
+[10]Diaz-Balteiro, L., González-Pachón, J. and Romero, C. (2017) “Measuring systems sustainability with multi-criteria methods: A critical review,” European Journal of Operational Research. Spain: Elsevier B.V., 258(2), pp. 607–616. doi: 10.1016/j.ejor.2016.08.075. 
+[11]Dignum, Virginia (2018) “Responsible Artificial Intelligence: Designing AI for Human Values,” AI & Society, 33, pp. 501–511. 
+[12]Doshi-Velez, Finale and Kim, Been (2017) “Towards a rigorous science of interpretable machine learning,” Proceedings of the 2017 ICML Workshop on Human Interpretability in Machine Learning.
+[13]Etzioni, Oren and Recommends, Jacob (2019) “The Ethics of Artificial Intelligence,” Communications of the ACM, 62, pp. 28–30.
+[14]Feller, A. (2020) “Sustainable AI: A Framework for Ethical AI Development,” AI & Society, 35, pp. 1–14. 
+[15]Gajendra, S. (2019) “AI for Good: A Framework for Sustainable Development,” Proceedings of the 2019 IEEE International Conference on Data Mining Workshops. 
+[16]Ghaffari, A. and R, M. M. H. (2021) “Sustainability in AI: A Review of Current Research,” in Sustainable Computing: Informatics and Systems, pp. 100–120.
+[17]Ghosh, S. and S, S. (2020) “AI for Sustainable Development: Opportunities and Challenges,” International Journal of Information Management, 50, pp. 1–9.
+[18]Greif, Lucas et al. (2024) “Strategic view on the current role of AI in advancing environmental sustainability: a SWOT analysis,” Discover Artificial Intelligence. Springer Science and Business Media LLC, 4(1). doi: 10.1007/s44163-024-00146-z.
+[19]Gunkel, David J. (2018) The Machine Question: Critical Perspectives on AI, Robots, and Ethics. The MIT Press.
+[20]Gupta, Udit et al. (2022) “Chasing Carbon: The Elusive Environmental Footprint of Computing,” IEEE Micro. Institute of Electrical and Electronics Engineers (IEEE), 42(4), pp. 37–47. doi: 10.1109/mm.2022.3163226.
+[21]Haq, Mohd Anul et al. (2022) “Analysis of environmental factors using AI and ML methods,” Scientific Reports. Springer Science and Business Media LLC, 12(1). doi: 10.1038/s41598-022-16665-7. 
+[22]Hwang, T. (2020) “The Ethics of Artificial Intelligence: A Global Perspective,” AI & Society, 35(1), pp. 1–12.
+[23]Jobin, Anna, Ienca, Marcello and Vayena, Effy (2019) “The global landscape of AI ethics guidelines,” Nature Machine Intelligence. Springer Science and Business Media LLC, 1(9), pp. 389–399. doi: 10.1038/s42256-019-0088-2.
+[24]Kahn, P. and Shapiro, D. A. (2020) “Sustainable AI: A Framework for Responsible AI Development,” Journal of AI Research, 67, pp. 1–20.
+[25]Kahn, Peter and Shapiro, David A. (2020) “Sustainable AI: A Framework for Responsible AI Development,” Journal of AI Research, 67, pp. 1–20. 
+[26]Kearns, Michael and Roth, Aaron (2019) The Ethical Algorithm: The Science of Socially Aware Algorithm Design. Oxford University Press.
+[27]Lipton, Zachary C. (2018) “The mythos of model interpretability,” Communications of the ACM. Association for Computing Machinery (ACM), 61(10), pp. 36–43. doi: 10.1145/3233231.
+[28]Mittelstadt, Brent (2019) “Principles alone cannot guarantee ethical AI,” Nature Machine Intelligence. Springer Science and Business Media LLC, 1(11), pp. 501–507. doi: 10.1038/s42256-019-0114-4.
+[29]Mittelstadt, Brent Daniel et al. (2016) “The ethics of algorithms: Mapping the debate,” Big Data & Society. SAGE Publications, 3(2). doi: 10.1177/2053951716679679.
+[30]Mor, Surender, Madan, Sonu and Prasad, Kumar Dharmendra (2021) “Artificial intelligence and carbon footprints: Roadmap for Indian agriculture,” Strategic Change. Wiley, 30(3), pp. 269–280. doi: 10.1002/jsc.2409. 
+[31]Nishant, Rohit, Kennedy, Mike and Corbett, Jacqueline (2020a) “Artificial intelligence for sustainability: Challenges, opportunities, and a research agenda,” International Journal of Information Management. Elsevier BV, 53. doi: 10.1016/j.ijinfomgt.2020.102104.
+[32]Nishant, Rohit, Kennedy, Mike and Corbett, Jacqueline (2020b) “Artificial intelligence for sustainability: Challenges, opportunities, and a research agenda,” International Journal of Information Management. Elsevier BV, 53. doi: 10.1016/j.ijinfomgt.2020.102104.
+[33]Olawumi, Timothy O. and Chan, Daniel W.M. (2018) “A scientometric review of global research on sustainability and sustainable development,” Journal of Cleaner Production. Elsevier BV, 183, pp. 231–250. doi: 10.1016/j.jclepro.2018.02.162.
+[34]Raji, I.D. and Buolamwini, J. (2019) “Actionable auditing: Investigating the impact of publicly naming biased performance results of commercial AI products,” AIES 2019 - Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society. Canada: Association for Computing Machinery, Inc. doi: 10.1145/3306618.3314244. 
+[35]Raman, Raghu et al. (2024) “Green and sustainable AI research: an integrated thematic and topic modeling analysis,” Journal of Big Data. Springer Science and Business Media LLC, 11(1). doi: 10.1186/s40537-024-00920-x. 
+[36]Reddy, V. Dinesh et al. (2017) “Metrics for Sustainable Data Centers,” IEEE Transactions on Sustainable Computing. Institute of Electrical and Electronics Engineers (IEEE), 2(3), pp. 290–303. doi: 10.1109/tsusc.2017.2701883.
+[37]Robinson, John et al. (2011a) “Envisioning sustainability: Recent progress in the use of participatory backcasting approaches for sustainability research,” Technological Forecasting and Social Change. Elsevier BV, 78(5), pp. 756–768. doi: 10.1016/j.techfore.2010.12.006.
+[38]Robinson, John et al. (2011b) “Envisioning sustainability: Recent progress in the use of participatory backcasting approaches for sustainability research,” Technological Forecasting and Social Change. Elsevier BV, 78(5), pp. 756–768. doi: 10.1016/j.techfore.2010.12.006.
+[39]Russell, Stuart and Norvig, Peter (2020) “Artificial Intelligence: A Modern Approach,” NJ. Pearson. 
+[40]Sandel, Michael J. (2020) The Tyranny of Merit: What’s Become of the Common Good. Farrar, Straus and Giroux.
+[41]Shadbolt, Nigel (2020) “The Ethics of AI: A Global Perspective,” AI & Society, 35, pp. 1–12. icon-Trash
+Sneegas, Gretchen et al. (2021) “Using Q-methodology in environmental sustainability research: A bibliometric analysis and systematic review,” Ecological Economics. Elsevier BV, 180. doi: 10.1016/j.ecolecon.2020.106864. 
+[42]Taghikhah, F. et al. (2022) “Artificial intelligence and sustainability: Solutions to social and environmental challenges,” in Artificial Intelligence and Data Science in Environmental Sensing. Australia: Elsevier, pp. 93–108. doi: 10.1016/B978-0-323-90508-4.00006-X.
+[43]Tamburrini, Guglielmo (2022) “The AI Carbon Footprint and Responsibilities of AI Scientists,” Philosophies. MDPI AG, 7(1). doi: 10.3390/philosophies7010004. icon-Trash
+[44]Verdecchia, R., Sallou, J. and Cruz, L. (2023) “A systematic review of Green AI,” Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery. Italy: John Wiley and Sons Inc, 13(4). doi: 10.1002/widm.1507. 
+[45]Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy (2016). Crown Publishing Group.
+[46]Wu, Carole-Jean et al. (2022) “Sustainable ai: Environmental implications, challenges and opportunities,” Proceedings of Machine Learning and Systems, 4, pp. 795–813. 
+[47]WU, Susie Ruqun et al. (2022) “A Review on the Adoption of AI, BC, and IoT in Sustainability Research,” Sustainability. MDPI AG, 14(13). doi: 10.3390/su14137851. 
+[48]Yadav, Manish and Singh, Gurjeet (2023) “Environmental sustainability with artificial intelligence,” EPRA International Journal of Multidisciplinary Research (IJMR), 9(5), pp. 213–217.
+[49]Zarsky, Tal (2015) “The Trouble with Algorithms: Analyzing the Role of Algorithms in the Development of AI,” Harvard Journal of Law & Technology, 29, pp. 1–35. 
+[50]Zeng, o. and et al. (2020) in SpringerBriefs in Computer Science, pp. 1–15.

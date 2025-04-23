@@ -1,0 +1,2 @@
+Machine learning and deep learning are subsets of AI. They help in decision-making 
+by analyzing large amounts of data and finding patterns. Not given hahaha
