@@ -22,10 +22,13 @@ A simple yet powerful **Command Line Interface (CLI)** tool to detect textual pl
 git clone https://github.com/your-username/plagiarism-checker-cli.git
 cd plagiarism-checker-cli
 
+---
+
 ## 📥How to Use
 **🔧 Command Format**
 
 python main.py documents/original.txt documents/suspect.txt
+---
 ## 📄 Output Report
 
 The output **PDF file** contains the original and suspect text side by side.  
@@ -57,7 +60,7 @@ Install them with:
 pip install scikit-learn numpy fpdf
 
 
-# 🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 - 📁 Support comparison of multiple documents in a batch
 - 🎚️ Add configurable similarity threshold (e.g., 70% cutoff)
