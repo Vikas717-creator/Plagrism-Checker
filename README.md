@@ -18,7 +18,7 @@ A simple yet powerful **Command Line Interface (CLI)** tool to detect textual pl
 
 1. **Clone the Repository**
 
-```bash
+
 git clone https://github.com/your-username/plagiarism-checker-cli.git
 cd plagiarism-checker-cli
 
@@ -26,6 +26,7 @@ cd plagiarism-checker-cli
 
 ## 📥How to Use
 **🔧 Command Format**
+
 
 python main.py documents/original.txt documents/suspect.txt
 ---
@@ -55,8 +56,6 @@ The tool uses the following Python packages:
 - `fpdf` *(or optionally `reportlab`)*
 
 Install them with:
-
-```bash
 pip install scikit-learn numpy fpdf
 
 
